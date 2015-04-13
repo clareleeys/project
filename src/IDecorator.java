@@ -1,0 +1,4 @@
+
+interface IDecorator{
+	double getPrice();
+}
